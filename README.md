@@ -5,7 +5,7 @@ This respository is specially for newcomers who wants to enhance their knowledge
 
 ###  How to Start?  
 
-If you have a idea of any weojects you want to build just open an appropriate issue regarding this, we will discuss and assign you that issue. In case you are confused and have queries, just ping [me](https://www.linkedin.com/in/kunalranjan199/), will help you get along and build!
+If you have a idea of any projects you want to build just open an appropriate issue regarding this, we will discuss and assign you that issue. In case you are confused and have queries, just ping [me](https://www.linkedin.com/in/kunalranjan199/), will help you get along and build!
 
 
 ###  Submit a Pull Request :
